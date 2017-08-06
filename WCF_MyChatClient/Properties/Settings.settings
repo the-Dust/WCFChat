@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WCF_MyChatClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WCF_MyChatClient_localhost_MyChatService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:57233/MyChatService.svc</Value>
+    </Setting>
+    <Setting Name="WCF_MyChatClient_zyxel_MyChatService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://zyxel:8005/MyChatService.svc</Value>
+    </Setting>
+    <Setting Name="WCF_MyChatClient_MyInternetWCF_MyChatService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sorrow256-001-site1.dtempurl.com/MyChatService.svc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
